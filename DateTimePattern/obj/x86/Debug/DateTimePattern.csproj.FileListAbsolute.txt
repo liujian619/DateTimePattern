@@ -1,0 +1,8 @@
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\bin\Debug\DateTimePattern.exe
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\bin\Debug\DateTimePattern.pdb
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.Form1.resources
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.Properties.Resources.resources
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.csproj.GenerateResource.Cache
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.exe
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.pdb
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Debug\DateTimePattern.csprojResolveAssemblyReference.cache

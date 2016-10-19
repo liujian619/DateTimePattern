@@ -1,0 +1,7 @@
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\bin\Release\DateTimePattern.exe
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\bin\Release\DateTimePattern.pdb
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Release\DateTimePattern.Form1.resources
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Release\DateTimePattern.Properties.Resources.resources
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Release\DateTimePattern.csproj.GenerateResource.Cache
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Release\DateTimePattern.exe
+C:\Users\LiuJian\Desktop\DateTimePattern\DateTimePattern\obj\x86\Release\DateTimePattern.pdb
